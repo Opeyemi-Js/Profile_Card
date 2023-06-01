@@ -25,9 +25,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-presence-profile-card-build-using-html-5-css-3-and-flexbox-zEp_tvcLzQ)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-presence-profile-card-build-using-html-5-css-3-and-flexbox-zEp_tvcLzQ]
 
-- Live Site URL: [Add live site URL here](https://profile-card-design-challenge.netlify.app/)
+- Live Site URL: [https://profile-card-design-challenge.netlify.app/]
 
 ## My process
 
