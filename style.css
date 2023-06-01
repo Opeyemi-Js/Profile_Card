@@ -84,9 +84,17 @@ hr.solid{
 }
 .follower_activity,.like_activity,.photo_activity{
     padding: 20px;
+    text-align: center;
 }
 h2{
     font-family: 'Kumbh Sans';
     font-weight: 700;
     color: hsl(229, 23%, 23%);
+}
+@media screen and (max-width:375px) {
+    .wrapper{
+        max-width: 375px;
+        width: 300px;
+        height: 350px;
+    }
 }
