@@ -40,7 +40,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-During the coding process of this project i gain some css tricks, learnt about the use of flex box.
+During the coding process of this project i gain some css tricks, learnt about the use of pseduo classes.
 
 ```css
   .wrapper::before{
